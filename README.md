@@ -17,6 +17,16 @@ It combined audio preprocessing, speech recognition, transcript processing, and 
 
 ---
 
+## Concept UI
+
+The following visual explores how the Maveris workflow could be presented as a more complete product interface.
+
+It illustrates recording/transcription, the AI processing pipeline, and structured clinical output.
+
+> This is a concept visualization created for the R&D case study. It is not a screenshot of a deployed or production clinical system.
+
+![Maveris Concept UI](assets/maveris-concept-ui.jpg)
+
 ## Problem Being Explored
 
 Clinical documentation workflows involve converting large amounts of spoken information into structured written records.
